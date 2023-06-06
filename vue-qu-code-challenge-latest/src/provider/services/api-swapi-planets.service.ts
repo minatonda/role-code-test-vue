@@ -15,6 +15,7 @@ export class ApiSwapiPlanetsService {
             params: params
         });
     }
+    
 }
 
 export interface Planet {
